@@ -1,0 +1,13 @@
+.vs/
+Library/
+Packages/
+Temp/
+obj/
+Logs/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+spine-unity.csproj
+spine-unity-editor.csproj
+Assets/StreamingAssets/
+web_build/
+*.apk
