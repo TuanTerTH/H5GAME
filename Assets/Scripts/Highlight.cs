@@ -1,11 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Highlight : MonoBehaviour
 {
     public static Highlight instance;
-
+    public  Text uname;
+    void Start()
+    {
+        Debug.Log("111>" + PlayerPrefs.GetString("uname"));
+        uname.text = PlayerPrefs.GetString("uname");
+    }
     private int[,] highlight_line = new int[9, 9] { 
         {0, 1, 2,   3, 4, 5,    6, 7, 8 },
         {9,10,11,   12,13,14,   15,16,17},
