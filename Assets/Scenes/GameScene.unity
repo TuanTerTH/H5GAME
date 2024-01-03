@@ -2252,7 +2252,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 607584678}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c459e468c47860643b639d6b09b12da0, type: 3}
   m_Name: 
@@ -4197,9 +4197,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: f16cf2899b1458d46a4e96a417027f0b, type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: f09dd716ac4fda54cb78884d33f4428c, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: f16cf2899b1458d46a4e96a417027f0b, type: 3}
+    m_HighlightedSprite: {fileID: 21300000, guid: a8d8daea2f561154e83498385b2c6407, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 476ada91de5ea6b438d989b01055c63b, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: a8d8daea2f561154e83498385b2c6407, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -4521,7 +4521,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1163717546}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e6ca756b919dcd84e8b146c2de0fa3a3, type: 3}
   m_Name: 
@@ -5027,7 +5027,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 476ada91de5ea6b438d989b01055c63b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a8d8daea2f561154e83498385b2c6407, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5086,8 +5086,8 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 1342207085}
-  On_image: {fileID: 21300000, guid: 3f0b14d3dfd28a44284d089c51589cef, type: 3}
-  Off_image: {fileID: 21300000, guid: e3dc5c590d0ec4c4883596d6093fe9f6, type: 3}
+  On_image: {fileID: 21300000, guid: 476ada91de5ea6b438d989b01055c63b, type: 3}
+  Off_image: {fileID: 21300000, guid: a8d8daea2f561154e83498385b2c6407, type: 3}
 --- !u!1 &1344018903 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6189841113453864153, guid: 2426b22dcdf34bc468db96258d20743d, type: 3}
